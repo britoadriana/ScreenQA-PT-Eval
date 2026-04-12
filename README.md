@@ -17,7 +17,7 @@ Our research **introduces ScreenQA-PT** and provides a comprehensive comparative
 | **Datasets** | **ScreenQA-PT** (Our Portuguese benchmark) & **ScreenQA** (Original English version) |
 | **Models** | Extensive evaluation using multiple VLMs (e.g., Qwen2.5-VL and others) |
 | **Lexical Metrics** | SQuAD F1 and Exact Match (EM) |
-| **Semantic Metrics** | Multilingual Cosine Similarity via Sentence Embeddings |
+| **Semantic Metrics** | Multilingual Cosine Similarity via Sentence Embeddings and LLM-as-a-judge |
 | **Structural Metrics** | Screen complexity analysis |
 
 ---
