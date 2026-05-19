@@ -184,7 +184,7 @@ It is **not intended to replace human-centered evaluation** when claims involve:
 ```bibtex
 @article{screenqapt2026,
   title={A Multicriteria Auditing Framework for Mobile UI Understanding in Vision-Language Models},
-  author={Anonymous Authors},
+  author={Adriana Camargo de Brito},
   year={2026}
 }
 ```
